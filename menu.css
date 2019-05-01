@@ -8,4 +8,5 @@ th {
   color: white;
 }
 tr:hover {background-color: #b19cd9;}
-tr:nth-child(even) {background-color: #003366 ;}
+a {text-decoration:none;
+  color:black;}
