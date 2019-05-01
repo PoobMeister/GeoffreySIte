@@ -1,0 +1,11 @@
+body {font-family: "Lato", sans-serif;}
+body
+{
+background-color: LightSteelBLue;
+}
+th {
+  background-color: LightSteelBLue;
+  color: white;
+}
+tr:hover {background-color: #b19cd9;}
+tr:nth-child(even) {background-color: #003366 ;}
